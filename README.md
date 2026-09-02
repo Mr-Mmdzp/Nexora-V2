@@ -1,4 +1,4 @@
-# Nexora-V2
+
 # Nexora V2
 
 Nexora V2 is a dark-themed PC hardware e-commerce website built with HTML, CSS and JavaScript.
