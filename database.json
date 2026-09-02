@@ -1,0 +1,210 @@
+{
+    "companyLogo": {
+        "image": "./Assists/logo.png"
+    },
+
+    "banners": [
+    {
+        "id": 1,
+        "src": "./Assists/banner1.webp"
+    },
+    {
+        "id": 2,
+        "src": "./Assists/banner2.webp"
+    },
+    {
+        "id": 3,
+        "src": "./Assists/banner3.webp"
+    },
+    {
+        "id": 4,
+        "src": "./Assists/bannersec.webp"
+    },
+    {
+        "id": 5,
+        "src": "./Assists/underheader.webp"
+    }
+    ],
+
+    "sortItems": [
+        {
+            "id": 1,
+            "title": "سیستم گیمینگ",
+            "image": "./Assists/pc1.webp"
+        },
+        {
+            "id": 2,
+            "title": "سیستم رندرینگ",
+            "image": "./Assists/pc2.webp"
+        },
+        {
+            "id": 3,
+            "title": "کاستوم واترکولینگ",
+            "image": "./Assists/pc3.webp"
+        },
+        {
+            "id": 4,
+            "title": "قطعات کامپیوتر",
+            "image": "./Assists/pc4.webp"
+        },
+        {
+            "id": 5,
+            "title": "کیس مادینگ",
+            "image": "./Assists/pc5.png"
+        },
+        {
+            "id": 6,
+            "title": "لوازم جانبی",
+            "image": "./Assists/pc6.webp"
+        }
+    ],
+
+    "newProducts": [
+        {
+            "id": 1,
+            "name": "پردازنده ای ام دی مدل AMD RYZEN 7 9850X3D",
+            "price": 90000000,
+            "image": "./Assists/cpu.png"
+        },
+        {
+            "id": 2,
+            "name": "موس لاجیتک مدل Logitech G Pro X Superlight 2 DEX Wireless ",
+            "price": 34000000,
+            "image": "./Assists/mouse1.png"
+        },
+        {
+            "id": 3,
+            "name": "مادربرد ایسوس مدل ASUS ROG CROSSHAIR X870E HERO",
+            "price": 139000000,
+            "image": "./Assists/mother-board.png"
+        },
+        {
+            "id": 4,
+            "name":"کارت گرافیک ایسوس ASUS ROG Astral GeForce RTX™ 5090 32GB OC",
+            "price": 1450000000,
+            "image": "./Assists/graphic.png"
+        },
+        {
+            "id": 5,
+            "name": " کیبورد گیمینگ لاجیتک مدل Logitech G515 Lightspeed TKL Wireless",
+            "price": 23500000,
+            "image": "./Assists/keyboard2.png"
+        }
+        
+    ],
+
+    "modedItems": [
+        {
+            "id": 1,
+            "name": "سیستم ادیشن | Red Dead Redemption ARTHUR",
+            "price": 1109808000,
+            "image": "./Assists/ARTHUR-185x185.webp"
+        },
+        {
+            "id": 2,
+            "name": "سیستم ادیشن | Cod Warzone ONE-A",
+            "price": 675972000,
+            "image": "./Assists/one-a-185x185.webp"
+        },
+        {
+            "id": 3,
+            "name": "سیستم ادیشن | Assasins Creed EZIO",
+            "price": 683532000,
+            "image": "./Assists/ezio-a-185x185.webp"
+        },
+        {
+            "id": 4,
+            "name": "سیستم ادیشن | Dota-2 LANCER",
+            "price": 1109808000,
+            "image": "./Assists/dota-2-lancer-185x185.webp"
+        },
+        {
+            "id": 5,
+            "name": "سیستم ادیشن | BattleField RAPTOR-A",
+            "price": 1439500000,
+            "image": "./Assists/raptor-a-185x185.webp"
+        }
+    ],
+
+    "monitorsItems": [
+        {
+            "id": 1,
+            "name": "مانیتور 27 اینچ ایسوس ASUS ROG STRIX XG27AQDMGR",
+            "price": 245000000,
+            "image": "Assists/monitor1.png"
+        },
+        {
+            "id": 2,
+            "name": "مانیتور 27 اینچ ایسوس ASUS TUF GAMING VG27AQM5A",
+            "price": 118800000,
+            "image": "Assists/monitor2.png"
+        },
+        {
+            "id": 3,
+            "name": "مانیتور 27 اینچ ایسوس ASUS ROG SWIFT OLED PG27UCDM",
+            "price": 350000000,
+            "image": "Assists/monitor3.png"
+        },
+        {
+            "id": 4,
+            "name": "مانیتور 27 اینچ ایسوس ASUS TUF GAMING VG27AQL5A",
+            "price": 85000000,
+            "image": "Assists/monitor4.png"
+        },
+        {
+            "id": 5,
+            "name": "مانیتور 27 اینچ ایسوس ASUS TUF GAMING VG27AQL5A",
+            "price": 280000000,
+            "image": "Assists/monitor1.png"
+        }
+    ],
+    "svg" : [
+        {
+            "id":1,
+            "src": "./Assists/user.svg"
+        },
+        {
+            "id":2,
+            "src": "./Assists/search-svgrepo-com.svg"
+        },
+        {
+            "id":3,
+            "src": "./Assists/cart.svg"
+        },{
+            "id":4,
+            "src": "./Assists/add-to-cart-3046.svg"
+        }
+    ],
+    "collectors":[
+        {
+            "id": 1,
+            "src" : "./Assists/collector.png"
+        },
+        {
+            "id": 2,
+            "src" : "./Assists/goodbanner.webp"
+        },
+        {
+            "id": 3,
+            "src" : "./Assists/peripherals-2.png"
+        },
+        {
+            "id": 4,
+            "src" : "./Assists/prebuilt-detail-banner.webp"
+        }
+    ],
+    "twoSides":[
+        {
+            "id": 1,
+            "img" : "./Assists/GAMING.png",
+            "title": "برای بازی بدون افت، بدون مکث",
+            "specTitle": "GAMING"
+        },
+        {
+            "id": 2,
+            "img" : "./Assists/RENDERING.png",
+            "title": "برای رندر سریع و حرفه‌ای",
+            "specTitle": "RENDERING"
+        }
+    ]
+}
