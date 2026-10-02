@@ -19,7 +19,7 @@ The main goal of this project was to practice building a complete front-end expe
 - 🎯 Interactive product cards
 - 🌌 Canvas particle and connection effects
 - ⚡ JavaScript-powered interactions
-- 📱 **Responsive design was NOT a goal of this project**
+- 📱 Resopnsive✅(**Responsive design was NOT a goal of this project**)
 
 ## 🛠️ Technologies
 
