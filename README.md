@@ -4,7 +4,8 @@
 Nexora V2 is a dark-themed PC hardware e-commerce website built with HTML, CSS and JavaScript.
 
 The main goal of this project was to practice building a complete front-end experience with dynamic data, interactive UI elements and JavaScript functionality.
-
+## 🌐 Demo 
+[Lunch Demo!](https://mr-mmdzp.github.io/NexusV2/)
 ## 🚀 Features
 
 - 🛒 Shopping cart system
